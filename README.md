@@ -6,7 +6,6 @@ This Jupyter Notebook project performs web scraping on Amazon's T-shirt section,
 ## Project Structure
 
 - **`main.ipynb`**: The main Jupyter Notebook containing the web scraping script, data manipulation, and database loading operations.
-- **`requirements.txt`**: Lists the required Python packages for this project.
 - **`README.md`**: Provides an overview of the project, including instructions on how to use the web scraper and load data into a local database.
 
 ## How to Use
